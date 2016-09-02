@@ -2,5 +2,6 @@
 int main(){
 	printf("haha\n");
 	printf("WTF I'm doing.....\n");
+	printf("IDK\n");
 	return 0;
 }
